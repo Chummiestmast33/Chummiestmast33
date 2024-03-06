@@ -6,6 +6,8 @@
 - Java
 - Rust
 - SQL
+17 Years old
+# Mexican Developer 📱
 <!--
 **Chummiestmast33/Chummiestmast33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
